@@ -1,5 +1,5 @@
 ```{r}
-ganteng <- 'Saya BOB dan saya lagi MPDW'
-print(ganteng)
+tampan <- 'Saya BOB dan saya lagi MPDW'
+print(tampan)
 ```
 
